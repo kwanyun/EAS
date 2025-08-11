@@ -10,17 +10,17 @@
 bash set.sh
 ```
 * Put EAM weight and image folders to change the style
-
-  https://drive.google.com/file/d/1X--a491Q6reEBV50XfyYqQ86yDxI44nd/view?usp=drive_link
+  
+#### [EAM Weight and Realistic Facial Images](https://drive.google.com/file/d/1Y5vc1yGKbyiX4NblQzGwYSjsR18htBsR/view?usp=drive_link)
 
 
 ### How to inference Scripts
 ```bash
-cd sketch
 python inference.py --num_styles 3
 ```
 
-#### To change style, check align_utils.py to
+#### To change style, check align_utils.py
+
 
 <img width="1024" height="529" alt="EAS_rev" src="https://github.com/user-attachments/assets/ce99ef6f-de36-42e7-bb97-8c35a2e64b3b" />
 
