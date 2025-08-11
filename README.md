@@ -29,7 +29,7 @@ python inference.py --num_styles 3
 ### Acknowledgments
 our codes were based on Diffusers library, ControlNet, and SDXL.
 
-### If you use this code or SKSF-A for your research, please cite our paper:
+### If found EAS or StyleMM useful for your research, please cite our paper:
 ```bash
 ```
 
