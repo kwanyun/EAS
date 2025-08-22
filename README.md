@@ -32,7 +32,13 @@ python inference.py --num_styles 3
 our codes were based on Diffusers library, ControlNet, and SDXL.
 
 ### If found EAS or StyleMM useful for your research, please cite our paper:
-```bash
+```
+@article{lee2025stylemm,
+  title={StyleMM: Stylized 3D Morphable Face Model via Text-Driven Aligned Image Translation},
+  author={Lee, Seungmi and Yun, Kwan and Noh, Junyong},
+  journal={arXiv preprint arXiv:2508.11203},
+  year={2025}
+}
 ```
 
 
